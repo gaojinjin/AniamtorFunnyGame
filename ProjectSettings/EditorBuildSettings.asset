@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FunnyGame.unity
+    guid: 1067f8a7ffbcb114b9cfbf7b70e61282
   m_configObjects: {}
